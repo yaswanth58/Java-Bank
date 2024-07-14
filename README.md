@@ -40,7 +40,7 @@ This Banking Management System is a console-based application developed in Java.
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/Siri079/Bank-management.git
+    git clone https://github.com/yaswanth58/Java-Bank.git
     ```
 2. **Navigate to the project directory:**
     ```sh
@@ -81,10 +81,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Contact
-
-If you have any questions or suggestions, feel free to contact me at sirikamkanampati@gmail.com
-
----
 
 Thank you for checking out my Banking System Project! I hope you find it useful and educational.
